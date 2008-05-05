@@ -1,0 +1,6 @@
+category: Perl
+requires: perl perl-Class-ErrorHandler perl-DateTime perl-DateTime-Format-Mail perl-DateTime-Format-W3CDTF perl-Feed-Find perl-URI-Fetch perl-XML-Atom perl-XML-RSS
+sdesc: "Perl RSS and Atom feed abstraction module"
+ldesc: "This is XML::Feed, an abstraction above the RSS and Atom 
+syndication feed formats. It supports both parsing and autodiscovery of 
+feeds."
