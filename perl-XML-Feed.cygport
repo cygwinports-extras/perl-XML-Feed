@@ -1,0 +1,10 @@
+CPAN_AUTHOR=davecross
+inherit perl
+
+NAME="perl-XML-Feed"
+VERSION=0.52
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl RSS/Atom feed parser and autodiscovery module"
+DESCRIPTION="XML::Feed is an abstraction above the RSS and Atom syndication
+feed formats. It supports both parsing and autodiscovery of feeds."
